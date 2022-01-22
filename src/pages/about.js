@@ -35,16 +35,15 @@ function AboutPage() {
               <Divider />
 
               <TYPE.main>
-                DefiLlama is the largest TVL aggregator for DeFi (Decentralized Finance). Our data is fully open-source
-                and maintained by a team of passionate individuals and contributors from hundreds of protocols.
+                HispaGames is a TVL aggregator for GameFi (Decentralized Gaming) in Harmony. 
               </TYPE.main>
               <TYPE.main>Our focus is on accurate data and transparent methodology.</TYPE.main>
-              <TYPE.main>We track over 800 DeFi protocols from over 80 different blockchains.</TYPE.main>
+              <TYPE.main>We track over 10 GameFi Dapps from Harmony.</TYPE.main>
               <Divider />
               <Divider />
               <TYPE.main>
-                Contact us on <Link href="https://twitter.com/defillama">Twitter</Link> or{' '}
-                <Link href="https://discord.gg/buPFYXzDDd">Discord</Link>
+                Contact us on <Link href="https://twitter.com/harmonyhispano">Twitter</Link> or{' '}
+                <Link href="https://discord.gg/todo">Discord</Link>
               </TYPE.main>
             </DashGrid>
           </Panel>

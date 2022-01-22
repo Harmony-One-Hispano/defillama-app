@@ -5,7 +5,7 @@ import Link from '../Link'
 
 const links = [
   { url: 'https://sushiswapclassic.org', text: 'About' },
-  { url: 'https://github.com/sushiswap/', text: 'Code' }
+  { url: 'https://github.com/Harmony-One-Hispano', text: 'Github' }
 ]
 
 const FooterLink = ({ children, ...rest }) => (

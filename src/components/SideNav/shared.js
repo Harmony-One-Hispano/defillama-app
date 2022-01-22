@@ -116,33 +116,18 @@ export const Footer = ({ isDark, toggleDarkMode }) => (
   <>
     <AutoColumn gap="0.5rem" style={{ paddingBottom: '1rem' }}>
       <HeaderText>
-        <Link href="https://twitter.com/DefiLlama" target="_blank">
+        <Link href="https://twitter.com/harmonyhispano" target="_blank">
           Twitter
         </Link>
       </HeaderText>
       <HeaderText>
-        <Link href="https://discord.gg/buPFYXzDDd" target="_blank">
-          Discord
+        <Link href="https://t.me/harmony_one_es" target="_blank">
+          Telegram
         </Link>
       </HeaderText>
       <HeaderText>
-        <Link href="/press">
-          Press / Media
-        </Link>
-      </HeaderText>
-      <HeaderText>
-        <Link href="/docs/api">
-          API Docs
-        </Link>
-      </HeaderText>
-      <HeaderText>
-        <Link href="https://docs.llama.fi/list-your-project/submit-a-project" target="_blank">
+        <Link href="https://app.onehispano.org/submit-a-project" target="_blank">
           List Your Project
-        </Link>
-      </HeaderText>
-      <HeaderText>
-        <Link href="https://defillama-datasets.s3.eu-central-1.amazonaws.com/all.csv" target="_blank">
-          Download Data
         </Link>
       </HeaderText>
       <Toggle isActive={isDark} toggle={toggleDarkMode} />
